@@ -10,16 +10,25 @@
 ## Research Projects
 ### The effect of Fast Flicker Adaptation on Contrast Discrimination (Dissertation)
 My dissertation dives into interactions between the spatial and temporal domains of the visual system. My experiments delve into Fast Flicker Adaptation (FFAd) and its impact on resolving fine details in static objects. I focus on the magnocellular (M) pathway, hypothesizing its crucial role in processing fast flickering and detailed imagery. My experiments span across three areas: examining contrast responses under varying contrasts of adapting flicker, understanding the influence of spatial frequency (details) in flickering stimuli, and analyzing the effects of different flicker speeds.
-- Stimuli used in Exp1:
-[Dissertation_Stimuli_flicker_General_11Hz_No_pattern](/assets/Research_Stimuli/Exp1_0C-F.mp4)
-[Dissertation_Stimuli_flicker_Exp1_10.6Hz_Contrast_10%](/assets/Research_Stimuli/Exp1_10C-F.mp4)
-[Dissertation_Stimuli_flicker_Exp1_10.6Hz_Contrast_50%](/assets/Research_Stimuli/Exp1_50C-F.mp4)
-- Stimuli used in Exp2:
-[Dissertation_Stimuli_flicker_Exp2_10.6Hz_Band-pass_filtered](/assets/Research_Stimuli/Exp2_HS-F.mp4)
-[Dissertation_Stimuli_flicker_Exp2_10.6Hz_Low-pass_filtered](/assets/Research_Stimuli/Exp2_LS-F.mp4)
-- Stimuli used in Exp3:
-[Dissertation_Stimuli_flicker_Exp3_2.5Hz_Low-pass_filtered](/assets/Research_Stimuli/Exp3_2.5hz.mp4)
-[Dissertation_Stimuli_flicker_Exp3_21.3Hz_Low-pass_filtered](/assets/Research_Stimuli/Exp3_21.25.mp4)
+- Stimuli used in Exp1
+  - Flicker_General_11Hz_No_pattern
+[Video](/assets/Research_Stimuli/Exp1_0C-F.mp4)
+  - Flicker_Exp1_10.6Hz_Contrast_10%
+[Video](/assets/Research_Stimuli/Exp1_10C-F.mp4)
+  - Flicker_Exp1_10.6Hz_Contrast_50%
+[Video](/assets/Research_Stimuli/Exp1_50C-F.mp4)
+
+- Stimuli used in Exp2
+  - Flicker_Exp2_10.6Hz_Band-pass_filtered
+[Video](/assets/Research_Stimuli/Exp2_HS-F.mp4)
+  - Flicker_Exp2_10.6Hz_Low-pass_filtered
+[Video](/assets/Research_Stimuli/Exp2_LS-F.mp4)
+
+- Stimuli used in Exp3
+  - Flicker_Exp3_2.5Hz_Low-pass_filtered
+[Video](/assets/Research_Stimuli/Exp3_2.5hz.mp4)
+  - Flicker_Exp3_21.3Hz_Low-pass_filtered
+[Video](/assets/Research_Stimuli/Exp3_21.25.mp4)
 
 
 ### Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
