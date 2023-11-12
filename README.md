@@ -1,5 +1,6 @@
-# Vision Scientist [Current CV](/assets/files/CV_JaeseonSong_2023.pdf)
+# Vision Scientist 
 
+### [Current CV](/assets/files/CV_JaeseonSong_2023.pdf)
 #### Software Skills: Python, MATLAB, R, SAS
 #### Hardware Skills: Eye trackers (EyeLink 1000+, Pupil-labs core eye-tracking headset), Spectrophotometer (Photo Research PR-650) 
 
