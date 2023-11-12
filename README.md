@@ -42,7 +42,7 @@ In our recent studies, we challenge existing views on how our visual system proc
 This study focuses on figure-ground perception, challenging the widely accepted idea that chromatic aberrations are the sole cause of red images appearing nearer or as the figure. I believe that a more comprehensive understanding of low-level optical and high-level cognitive processes involved in figure-ground/depth perception is necessary to fully account for this perceptual bias. 
 
 - Song, J., & Brown, J. M. The influence of “advancing” and “receding” colors on figure-ground perception under monocular and binocular viewing. Attention, Perception, & Psychophysics (2nd revision).
-[See Abstract] (https://jov.arvojournals.org/article.aspx?articleid=2749992)
+[See Abstract](https://jov.arvojournals.org/article.aspx?articleid=2749992)
 
 ## Work Experience
 ** Graduate Teaching Assistant @ University of Georgia (_August 2017 - Present_)**
