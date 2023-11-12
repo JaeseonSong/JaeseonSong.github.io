@@ -11,5 +11,5 @@ footer:
       url: "https://www.linkedin.com/in/jaeseon-song/"
 
 show_downloads: False
-theme: jekyll-theme-Minimal
+#theme: jekyll-theme-Minimal
 remote_theme: mmistakes/minimal-mistakes
