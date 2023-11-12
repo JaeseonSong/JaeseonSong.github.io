@@ -1,10 +1,10 @@
 # Vision Scientist 
 
-### [Curriculum Vitae](/assets/files/CV_JaeseonSong_2023.pdf)
+## [Curriculum Vitae](/assets/files/CV_JaeseonSong_2023.pdf)
 
 ## Skills
-- Software: Python, MATLAB, R, SAS
-- Hardware: Eye trackers (EyeLink 1000+, Pupil-labs core eye-tracking headset), Spectrophotometer (Photo Research PR-650) 
+- **Software**: Python, MATLAB, R, SAS
+- **Hardware**: Eye trackers (EyeLink 1000+, Pupil-labs core eye-tracking headset), Spectrophotometer (Photo Research PR-650) 
 
 ## Education
 - Ph.D., Psychology | The University of Georgia (_May 2024, Expected_)				       
@@ -48,7 +48,7 @@ This study focuses on figure-ground perception, challenging the widely accepted 
 [See Abstract](https://jov.arvojournals.org/article.aspx?articleid=2749992)
 
 ## Work Experience
-** Graduate Teaching Assistant @ University of Georgia (_August 2017 - Present_)**
+**Graduate Teaching Assistant @ University of Georgia (_August 2017 - Present_)**
 - Instructor of Record 
   - Research Design in Psychology (PSYC 3980) – Summer 2022				   
   - Designed and built all curriculum for research design (junior-level) course intended to aid students in evaluating the qualities of multiple sources of information by considering alternative explanations and determining the truth/falsity of assumptions.
