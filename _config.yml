@@ -1,57 +1,11 @@
 title: Jaeseon Song
-logo: /assets/Images/profile.png
-email: jaeseon.song@uga.edu
+logo: C:/Users/Jaeseon/Documents/GitHub/JaeseonSong.github.io/profile.jpg
+email: jaeseon.song at uga dot edu
 description: As a Ph.D. candidate in visual perception, I explore human vision through psychophysics. My study is driven by a quest to understand how we perceive and interpret the world. Outside the lab, I pursue CrossFit, challenging both body and mind. Travel is also a passion, broadening my perspectives and enriching my personal and professional growth.
-github_username: JaeseonSong
-minimal_mistakes_skin: default
-search: true
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+show_downloads: False
+theme: jekyll-theme-Minimal
 
-include:
-  - _pages
-  
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-author:
-  name   : "Jaeseon Song"
-  avatar : "/assets/Images/profile.jpg"
-  bio    : >-
-    My name is Jaeseon Song.
-    As a Ph.D. candidate in visual perception, I explore human vision through psychophysics. 
-    My study is driven by a quest to understand how we perceive and interpret the world. 
-
-    I was born in Cheongju, South korea but I've been living in Athens, US since 2017.
-    Outside the lab, I pursue CrossFit, challenging both body and mind. 
-    Travel is also a passion, broadening my perspectives and enriching my personal and professional growth.
-
-  location: "Athens, United States"
-  linkedin: "jaeseon-song"
-  github: "JaeseonSong"
-  stackoverflow: "82540"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jaeseon.song@uga.edu"
-    - label: "CV"
-      icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/CV_JS_2023.pdf"
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/JaeseonSong
