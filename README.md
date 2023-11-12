@@ -9,20 +9,14 @@
 
 ## Research Projects
 ### The effect of Fast Flicker Adaptation on Contrast Discrimination (Dissertation)
-[Dissertation_Stimuli](/assets/Videos)
-
 My dissertation dives into interactions between the spatial and temporal domains of the visual system. My experiments delve into Fast Flicker Adaptation (FFAd) and its impact on resolving fine details in static objects. I focus on the magnocellular (M) pathway, hypothesizing its crucial role in processing fast flickering and detailed imagery. My experiments span across three areas: examining contrast responses under varying contrasts of adapting flicker, understanding the influence of spatial frequency (details) in flickering stimuli, and analyzing the effects of different flicker speeds.
-
-![Profile](/assets/Images/profile.png)
+[Dissertation_Stimuli](/assets/Videos)
 
 ### Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
 Our latest study challenges existing views on how our visual system processes contrast and color. Traditionally, it was believed that two testing methods, the pulsed- and steady-pedestal paradigms, could separately measure the responses of the parvocellular (P) and magnocellular (M) systems in our eyes. These systems help us perceive details and movement, respectively. We investigated these methods by examining how well we can detect changes in contrast, especially under different light and color conditions. Surprisingly, our results showed that color doesn’t affect how we see contrast as much as previously thought, and that spatial frequency (how detailed or smooth an image is) has minimal impact. Using a mathematical model, we found that both testing methods seem to measure the P-system more than the M-system. This contradicts earlier beliefs and suggests that our understanding of how our eyes and brain process visual information, especially in varying light and color conditions, might need updating.
 
-[Publication1](https://jov.arvojournals.org/article.aspx?articleid=2784082)
-Song, J., Breitmeyer, B. G., & Brown, J. M. (In Press) Examining increment thresholds for Gabor patches under hypothetical parvocellular- and magnocellular-biased conditions. Attention, Perception, & Psychophysics.
-
-[Publication2](https://jov.arvojournals.org/article.aspx?articleid=2791665)
-Song, J., Breitmeyer, B. G., & Brown, J. M. (Manuscript Under Preparation) Further examination of the pulsed- and steady-pedestal paradigms under hypothetical parvocellular- and magnocellular-biased conditions.
+- Song, J., Breitmeyer, B. G., & Brown, J. M. (In Press) Examining increment thresholds for Gabor patches under hypothetical parvocellular- and magnocellular-biased conditions. Attention, Perception, & Psychophysics. [Publication1](https://jov.arvojournals.org/article.aspx?articleid=2784082)
+- Song, J., Breitmeyer, B. G., & Brown, J. M. (Manuscript Under Preparation) Further examination of the pulsed- and steady-pedestal paradigms under hypothetical parvocellular- and magnocellular-biased conditions. [Publication2](https://jov.arvojournals.org/article.aspx?articleid=2791665)
 
 ## Work Experience
 ** Graduate Teaching Assistant @ University of Georgia (_August 2017 - Present_)**
