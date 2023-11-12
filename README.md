@@ -1,5 +1,5 @@
 # Vision Scientist
-[CV](/assets/files/CV_JaeseonSong_2023.pdf)
+[My Current CV](/assets/files/CV_JaeseonSong_2023.pdf)
 
 #### Technical Skills: Python, MATLAB, R, Eye trackers (EyeLink 1000+, Pupil-labs core eye-tracking headset)
 
