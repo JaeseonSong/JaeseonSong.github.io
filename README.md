@@ -51,9 +51,9 @@ This study focuses on figure-ground perception, challenging the widely accepted 
 **Graduate Teaching Assistant @ University of Georgia (_August 2017 - Present_)**
 - Instructor of Record 
   - Research Design in Psychology (PSYC 3980) – Summer 2022				   
-  - Designed and built all curriculum for research design (junior-level) course intended to aid students in evaluating the qualities of multiple sources of information by considering alternative explanations and determining the truth/falsity of assumptions.
-- Sensation and Perception (PSYC 4120) – Fall 2020		
-  - Designed and built all curriculum for sensation and perception (senior-level) course intended for students gaining a general understanding and appreciation of their sensory/perceptual systems.
+    - Designed and built all curriculum for research design (junior-level) course intended to aid students in evaluating the qualities of multiple sources of information by considering alternative explanations and determining the truth/falsity of assumptions.
+  - Sensation and Perception (PSYC 4120) – Fall 2020		
+    - Designed and built all curriculum for sensation and perception (senior-level) course intended for students gaining a general understanding and appreciation of their sensory/perceptual systems.
 - Teaching Assistant
   - Sensation and Perception (PSYC 4120) – Spring 2023 
   - Research Analysis in Psychology (PSYC 3990) – Fall 2022, Spring 2021			
