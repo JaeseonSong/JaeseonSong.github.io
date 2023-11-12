@@ -1,6 +1,6 @@
 # Vision Scientist 
 
-### [My CV](/assets/files/CV_JaeseonSong_2023.pdf)
+### [Curriculum Vitae](/assets/files/CV_JaeseonSong_2023.pdf)
 
 ## Skills
 - Software: Python, MATLAB, R, SAS
