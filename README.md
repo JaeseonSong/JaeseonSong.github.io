@@ -33,3 +33,5 @@ Our latest study challenges existing views on how our visual system processes co
   - Research Design in Psychology (PSYC 3980) – Spring 2022, Summer 2021, Spring 2020, Fall 2019	
   - Psychopharmacology (PSYC 5850) – Fall 2021
   - Elementary Psychology (PSYC 1101) – Spring 2019	
+
+![UGA_logo](/assets/Images/uga_gray.png)
