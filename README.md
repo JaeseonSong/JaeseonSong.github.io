@@ -34,4 +34,4 @@ Our latest study challenges existing views on how our visual system processes co
   - Psychopharmacology (PSYC 5850) – Fall 2021
   - Elementary Psychology (PSYC 1101) – Spring 2019	
 
-![UGA_logo](/assets/Images/uga_gray.png)
+![UGA_logo](/assets/Images/uga_logo.png)
