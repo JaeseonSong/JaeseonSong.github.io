@@ -10,7 +10,14 @@
 ## Research Projects
 ### The effect of Fast Flicker Adaptation on Contrast Discrimination (Dissertation)
 My dissertation dives into interactions between the spatial and temporal domains of the visual system. My experiments delve into Fast Flicker Adaptation (FFAd) and its impact on resolving fine details in static objects. I focus on the magnocellular (M) pathway, hypothesizing its crucial role in processing fast flickering and detailed imagery. My experiments span across three areas: examining contrast responses under varying contrasts of adapting flicker, understanding the influence of spatial frequency (details) in flickering stimuli, and analyzing the effects of different flicker speeds.
-[Dissertation_Stimuli_Videos](/assets/Videos)
+[Dissertation_Stimuli_flicker_General_11Hz_No_pattern](/assets/Videos/Exp1_0C-F.mp4)
+[Dissertation_Stimuli_flicker_Exp1_10.6Hz_Contrast_10%](/assets/Videos/Exp1_10C-F.mp4)
+[Dissertation_Stimuli_flicker_Exp1_10.6Hz_Contrast_50%](/assets/Videos/Exp1_50C-F.mp4)
+[Dissertation_Stimuli_flicker_Exp2_10.6Hz_Band-pass_filtered](/assets/Videos/Exp2_HS-F.mp4)
+[Dissertation_Stimuli_flicker_Exp2_10.6Hz_Low-pass_filtered](/assets/Videos/Exp2_LS-F.mp4)
+[Dissertation_Stimuli_flicker_Exp3_2.5Hz_Low-pass_filtered](/assets/Videos/Exp3_2.5hz.mp4)
+[Dissertation_Stimuli_flicker_Exp3_21.3Hz_Low-pass_filtered](/assets/Videos/Exp3_21.25.mp4)
+
 
 ### Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
 Our latest study challenges existing views on how our visual system processes contrast and color. Traditionally, it was believed that two testing methods, the pulsed- and steady-pedestal paradigms, could separately measure the responses of the parvocellular (P) and magnocellular (M) systems in our eyes. These systems help us perceive details and movement, respectively. We investigated these methods by examining how well we can detect changes in contrast, especially under different light and color conditions. Surprisingly, our results showed that color doesn’t affect how we see contrast as much as previously thought, and that spatial frequency (how detailed or smooth an image is) has minimal impact. Using a mathematical model, we found that both testing methods seem to measure the P-system more than the M-system. This contradicts earlier beliefs and suggests that our understanding of how our eyes and brain process visual information, especially in varying light and color conditions, might need updating.
@@ -35,4 +42,4 @@ Our latest study challenges existing views on how our visual system processes co
   - Elementary Psychology (PSYC 1101) – Spring 2019	
 
 
-        ![UGA_logo](/assets/Images/uga_logo.png)
+ ![UGA_logo](/assets/Images/uga_logo.png)
