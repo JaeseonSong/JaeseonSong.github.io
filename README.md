@@ -16,7 +16,9 @@
 My dissertation dives into interactions between the spatial and temporal domains of the visual system. My experiments delve into Fast Flicker Adaptation (FFAd) and its impact on resolving fine details in static objects. I focus on the magnocellular (M) pathway, hypothesizing its crucial role in processing fast flickering and detailed imagery. My experiments span across three areas: examining contrast responses under varying contrasts of adapting flicker, understanding the influence of spatial frequency (details) in flickering stimuli, and analyzing the effects of different flicker speeds.
 
 - Adaptation Stimuli and Procedure used in Exp1  
+
   - (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
+
   - (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
 
 <p align="center">
@@ -31,6 +33,7 @@ Watch Videos: [![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/default
 - Stimuli used in Exp2  
 
   - (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
+
   - (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
 
 Watch Videos: [![Watch the video](https://img.youtube.com/vi/qZUz0eW7ozg/default.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
@@ -64,6 +67,7 @@ This study focuses on figure-ground perception, challenging the widely accepted 
   - Examples of the Red vs. Gray conditions in Exp1 and Exp2. In Exp1, we used Maltese crosses that were figure-ground ambiguous, consisting of left- and right-tilting sectors of equal area. In Exp2, the two crosses were figure-ground biased, consisting of a Plus (+) shaped cross of smaller sectors, presented at cardinal (vertical and horizontal) orientations, biased to be seen as figure, and an X-shaped cross of obliquely oriented larger sectors, biased to be seen as ground. 
 
     - (a) An example of the ambiguous Maltese crosses pattern used in Exp1 consisting of two regions—the "rightward tilted cross" and the "leftward tilted cross." Right and left refer to the location of the top of the cross with respect to the center of the pattern. Each of the two regions of the Maltese crosses pattern consisted of four nonadjacent octants of a circular region.
+
     - (b) An example of the figure-ground biased Maltese crosses pattern used in Experiment 2 consisting of two regions—the smaller, "Plus-shaped cross," presented at cardinal orientations, and the larger "X-shaped cross," presented at oblique orientations. The Plus-shaped cross was biased to be seen as figure, while the X-shaped cross was biased to be seen as ground.
 
 <p align="center">
