@@ -23,16 +23,13 @@ My dissertation dives into interactions between the spatial and temporal domains
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
 
-  - Flicker_General_11Hz_No_pattern
-    
+    - Flicker_General_11Hz_No_pattern    
 [![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/default.jpg)](https://youtube.com/shorts/dqzhrg9ZzTU)
 
-  - Flicker_Exp1_10.6Hz_Contrast_10%
-    
+    - Flicker_Exp1_10.6Hz_Contrast_10%    
 [![Watch the video](https://img.youtube.com/vi/kBNjA5LnxUc/default.jpg)](https://youtube.com/shorts/kBNjA5LnxUc)
 
-  - Flicker_Exp1_10.6Hz_Contrast_50%
-    
+    - Flicker_Exp1_10.6Hz_Contrast_50%    
 [![Watch the video](https://img.youtube.com/vi/5rXl25assDU/default.jpg)](https://youtube.com/shorts/5rXl25assDU)
 
 - Stimuli used in Exp2
@@ -42,21 +39,18 @@ My dissertation dives into interactions between the spatial and temporal domains
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure8.png" alt="Image" width="400">
 
-  - Flicker_Exp2_10.6Hz_drifting_Band-pass_filtered
-    
+    - Flicker_Exp2_10.6Hz_drifting_Band-pass_filtered    
 [![Watch the video](https://img.youtube.com/vi/qZUz0eW7ozg/default.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
 
-  - Flicker_Exp2_10.6Hz_drifting_Low-pass_filtered
-    
+    - Flicker_Exp2_10.6Hz_drifting_Low-pass_filtered    
 [![Watch the video](https://img.youtube.com/vi/ImAVXnq2j_M/default.jpg)](https://youtube.com/shorts/ImAVXnq2j_M)
 
-- Stimuli used in Exp3
-  - Flicker_Exp3_2.5Hz_drifting_Low-pass_filtered
-    
+ - Stimuli used in Exp3
+   
+    - Flicker_Exp3_2.5Hz_drifting_Low-pass_filtered    
 [![Watch the video](https://img.youtube.com/vi/yeaQKCwqViY/default.jpg)](https://youtube.com/shorts/yeaQKCwqViY)
 
-  - Flicker_Exp3_21.3Hz_drifting_Low-pass_filtered
-    
+    - Flicker_Exp3_21.3Hz_drifting_Low-pass_filtered    
 [![Watch the video](https://img.youtube.com/vi/RMCdv9kDB0c/default.jpg)](https://youtube.com/shorts/RMCdv9kDB0c)
 
 #### 2. Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
