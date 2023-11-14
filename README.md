@@ -23,32 +23,32 @@ My dissertation dives into interactions between the spatial and temporal domains
   <img src="/assets/Research_Stimuli/FFAd_exp1.png" alt="Image" width="600">
 </p>
 
-Flicker_General_11Hz_No_pattern
+Flicker1_Exp1_No_Contrast
 [![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/default.jpg)](https://youtube.com/shorts/dqzhrg9ZzTU)
 
-Flicker_Exp1_10.6Hz_Contrast_10%
+Flicker2_Exp1_Contrast_10%
 [![Watch the video](https://img.youtube.com/vi/kBNjA5LnxUc/default.jpg)](https://youtube.com/shorts/kBNjA5LnxUc)
 
-Flicker_Exp1_10.6Hz_Contrast_50%
+Flicker3_Exp1_Contrast_50%
 [![Watch the video](https://img.youtube.com/vi/5rXl25assDU/default.jpg)](https://youtube.com/shorts/5rXl25assDU)
 
 
 - Stimuli used in Exp2  
- - (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
- - (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
+  - (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
+  - (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
 
-Flicker_Exp2_10.6Hz_drifting_Band-pass_filtered
+Flicker1_Exp2_HF
 [![Watch the video](https://img.youtube.com/vi/qZUz0eW7ozg/default.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
 
-Flicker_Exp2_10.6Hz_drifting_Low-pass_filtered
+Flicker2_Exp2_LF
 [![Watch the video](https://img.youtube.com/vi/ImAVXnq2j_M/default.jpg)](https://youtube.com/shorts/ImAVXnq2j_M)
 
 - Stimuli used in Exp3
   
-Flicker_Exp3_2.5Hz_drifting_Low-pass_filtered
+Flicker1_Exp3_2.5Hz
 [![Watch the video](https://img.youtube.com/vi/yeaQKCwqViY/default.jpg)](https://youtube.com/shorts/yeaQKCwqViY)
 
-Flicker_Exp3_21.3Hz_drifting_Low-pass_filtered
+Flicker2_Exp3_21.3Hz
 [![Watch the video](https://img.youtube.com/vi/RMCdv9kDB0c/default.jpg)](https://youtube.com/shorts/RMCdv9kDB0c)
 
 #### 2. Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
