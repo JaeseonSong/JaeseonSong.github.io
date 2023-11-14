@@ -20,7 +20,8 @@ My dissertation dives into interactions between the spatial and temporal domains
     (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
     (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
 
-<img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
+<p align="center">
+  <img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
 
   - Flicker_General_11Hz_No_pattern
 [![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/default.jpg)](https://youtube.com/shorts/dqzhrg9ZzTU)
@@ -35,7 +36,8 @@ My dissertation dives into interactions between the spatial and temporal domains
     (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
     (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
 
-<img src="/assets/Research_Stimuli/Figure8.png" alt="Image" width="400">
+<p align="center">
+  <img src="/assets/Research_Stimuli/Figure8.png" alt="Image" width="400">
 
   - Flicker_Exp2_10.6Hz_drifting_Band-pass_filtered
 [![Watch the video](https://img.youtube.com/vi/qZUz0eW7ozg/default.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
@@ -56,7 +58,8 @@ In our recent studies, we challenge existing views on how our visual system proc
 - Song, J., Breitmeyer, B. G., & Brown, J. M. (In Press) Examining increment thresholds for Gabor patches under hypothetical parvocellular- and magnocellular-biased conditions. Attention, Perception, & Psychophysics. [See Abstract](https://jov.arvojournals.org/article.aspx?articleid=2784082)
   - Procedure and Stimuli
 
-<img src="/assets/Research_Stimuli/CRF.png" alt="Image" width="600">
+<p align="center">
+  <img src="/assets/Research_Stimuli/CRF.png" alt="Image" width="600">
 
 - Song, J., Breitmeyer, B. G., & Brown, J. M. (Manuscript Under Preparation) Further examination of the pulsed- and steady-pedestal paradigms under hypothetical parvocellular- and magnocellular-biased conditions. [See Abstract](https://jov.arvojournals.org/article.aspx?articleid=2791665)
 
@@ -65,7 +68,9 @@ This study focuses on figure-ground perception, challenging the widely accepted 
 
 - Song, J., & Brown, J. M. The influence of “advancing” and “receding” colors on figure-ground perception under monocular and binocular viewing. Attention, Perception, & Psychophysics (2nd revision). [See Abstract](https://jov.arvojournals.org/article.aspx?articleid=2749992)
   - Stimuli
-<img src="/assets/Research_Stimuli/FG.png" alt="Image" width="400">
+
+<p align="center">
+  <img src="/assets/Research_Stimuli/FG.png" alt="Image" width="400">
 
 ## Work Experience
 #### Graduate Teaching Assistant @ University of Georgia (_August 2017 - Present_)
