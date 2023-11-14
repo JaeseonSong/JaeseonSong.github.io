@@ -15,10 +15,9 @@
 #### 1. The effect of Fast Flicker Adaptation on Contrast Discrimination (Dissertation)
 My dissertation dives into interactions between the spatial and temporal domains of the visual system. My experiments delve into Fast Flicker Adaptation (FFAd) and its impact on resolving fine details in static objects. I focus on the magnocellular (M) pathway, hypothesizing its crucial role in processing fast flickering and detailed imagery. My experiments span across three areas: examining contrast responses under varying contrasts of adapting flicker, understanding the influence of spatial frequency (details) in flickering stimuli, and analyzing the effects of different flicker speeds.
 
-- Stimuli used in Exp1
-  - Adaptation Stimuli and Procedure.
-    (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
-    (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
+- Adaptation Stimuli and Procedure used in Exp1
+  - (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
+  - (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
 
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
@@ -33,8 +32,8 @@ My dissertation dives into interactions between the spatial and temporal domains
 [![Watch the video](https://img.youtube.com/vi/5rXl25assDU/default.jpg)](https://youtube.com/shorts/5rXl25assDU)
 
 - Stimuli used in Exp2
-    (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
-    (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
+  - (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
+  - (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
 
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure8.png" alt="Image" width="400">
@@ -45,7 +44,7 @@ My dissertation dives into interactions between the spatial and temporal domains
     - Flicker_Exp2_10.6Hz_drifting_Low-pass_filtered    
 [![Watch the video](https://img.youtube.com/vi/ImAVXnq2j_M/default.jpg)](https://youtube.com/shorts/ImAVXnq2j_M)
 
- - Stimuli used in Exp3
+- Stimuli used in Exp3
    
     - Flicker_Exp3_2.5Hz_drifting_Low-pass_filtered    
 [![Watch the video](https://img.youtube.com/vi/yeaQKCwqViY/default.jpg)](https://youtube.com/shorts/yeaQKCwqViY)
