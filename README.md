@@ -21,6 +21,7 @@ My dissertation dives into interactions between the spatial and temporal domains
 
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
+</p>
 
     - Flicker_General_11Hz_No_pattern 
     [![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/default.jpg)](https://youtube.com/shorts/dqzhrg9ZzTU)
@@ -37,6 +38,7 @@ My dissertation dives into interactions between the spatial and temporal domains
 
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure8.png" alt="Image" width="400">
+</p>
 
     - Flicker_Exp2_10.6Hz_drifting_Band-pass_filtered
     [![Watch the video](https://img.youtube.com/vi/qZUz0eW7ozg/default.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
@@ -61,6 +63,7 @@ In our recent studies, we challenge existing views on how our visual system proc
 
 <p align="center">
   <img src="/assets/Research_Stimuli/CRF.png" alt="Image" width="600">
+</p>
 
 - Song, J., Breitmeyer, B. G., & Brown, J. M. (Manuscript Under Preparation) Further examination of the pulsed- and steady-pedestal paradigms under hypothetical parvocellular- and magnocellular-biased conditions. [See Abstract](https://jov.arvojournals.org/article.aspx?articleid=2791665)
 
@@ -74,6 +77,8 @@ This study focuses on figure-ground perception, challenging the widely accepted 
 
 <p align="center">
   <img src="/assets/Research_Stimuli/FG.png" alt="Image" width="400">
+</p>
+
 
 ## Work Experience
 #### Graduate Teaching Assistant @ University of Georgia (_August 2017 - Present_)
