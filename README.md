@@ -16,20 +16,24 @@
 My dissertation dives into interactions between the spatial and temporal domains of the visual system. My experiments delve into Fast Flicker Adaptation (FFAd) and its impact on resolving fine details in static objects. I focus on the magnocellular (M) pathway, hypothesizing its crucial role in processing fast flickering and detailed imagery. My experiments span across three areas: examining contrast responses under varying contrasts of adapting flicker, understanding the influence of spatial frequency (details) in flickering stimuli, and analyzing the effects of different flicker speeds.
 
 - Adaptation Stimuli and Procedure used in Exp1
-  - (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
-  - (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
-
+  
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
 </p>
 
-    - Flicker_General_11Hz_No_pattern 
+  - (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
+  - (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
+
+    - Flicker_General_11Hz_No_pattern
+      
     [![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/default.jpg)](https://youtube.com/shorts/dqzhrg9ZzTU)
 
     - Flicker_Exp1_10.6Hz_Contrast_10%
+  
     [![Watch the video](https://img.youtube.com/vi/kBNjA5LnxUc/default.jpg)](https://youtube.com/shorts/kBNjA5LnxUc)
 
     - Flicker_Exp1_10.6Hz_Contrast_50%    
+    
     [![Watch the video](https://img.youtube.com/vi/5rXl25assDU/default.jpg)](https://youtube.com/shorts/5rXl25assDU)
 
 - Stimuli used in Exp2
