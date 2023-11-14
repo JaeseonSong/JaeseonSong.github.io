@@ -18,11 +18,11 @@ My dissertation dives into interactions between the spatial and temporal domains
 - Adaptation Stimuli and Procedure used in Exp1
   
 <p align="center">
-  <img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
+  <img src="/assets/Research_Stimuli/FFAd_exp1.png" alt="Image" width="600">
 </p>
 
-  - (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
-  - (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
+(a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
+(b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
 
     - Flicker_General_11Hz_No_pattern
       
@@ -37,25 +37,28 @@ My dissertation dives into interactions between the spatial and temporal domains
     [![Watch the video](https://img.youtube.com/vi/5rXl25assDU/default.jpg)](https://youtube.com/shorts/5rXl25assDU)
 
 - Stimuli used in Exp2
-  - (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
-  - (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
-
 <p align="center">
   <img src="/assets/Research_Stimuli/Figure8.png" alt="Image" width="400">
 </p>
+(a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
+(b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
 
     - Flicker_Exp2_10.6Hz_drifting_Band-pass_filtered
+
     [![Watch the video](https://img.youtube.com/vi/qZUz0eW7ozg/default.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
 
     - Flicker_Exp2_10.6Hz_drifting_Low-pass_filtered    
+
     [![Watch the video](https://img.youtube.com/vi/ImAVXnq2j_M/default.jpg)](https://youtube.com/shorts/ImAVXnq2j_M)
 
 - Stimuli used in Exp3
    
     - Flicker_Exp3_2.5Hz_drifting_Low-pass_filtered
+
     [![Watch the video](https://img.youtube.com/vi/yeaQKCwqViY/default.jpg)](https://youtube.com/shorts/yeaQKCwqViY)
 
     - Flicker_Exp3_21.3Hz_drifting_Low-pass_filtered
+
     [![Watch the video](https://img.youtube.com/vi/RMCdv9kDB0c/default.jpg)](https://youtube.com/shorts/RMCdv9kDB0c)
 
 #### 2. Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
