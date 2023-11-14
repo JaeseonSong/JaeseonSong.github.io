@@ -19,7 +19,7 @@ My dissertation dives into interactions between the spatial and temporal domains
   - Adaptation Stimuli and Procedure.
     (a) Brightness Profiles over 2 cycles for conditions for conditions 10C-F (10% Michelson contrast, left) and 50C-F (50% Michelson contrast, right) with a 50% temporal modulation on an 85 Hz monitor.
     (b) Procedure: each session begins with a 30-second adaptation to 1 of 4 contrast conditions, depicted through 8 images. Subsequent trials involve a 3-second adaptation, except the first trial of a new condition, which has a 15-second adaptation. After each adaptation, there's a 1-second pause with an auditory cue before presenting the test stimulus for 106 ms. Participants then choose which of the two displayed Gabor patches (sinusoidal gratings) has higher contrast, using a two-alternative forced choice (2AFC) method.
-<img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="350">
+<img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="450">
 
   - Flicker_General_11Hz_No_pattern
 [Video](/assets/Research_Stimuli/Exp1_0C-F.mp4)
