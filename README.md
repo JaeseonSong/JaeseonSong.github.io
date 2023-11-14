@@ -23,11 +23,13 @@ My dissertation dives into interactions between the spatial and temporal domains
 <img src="/assets/Research_Stimuli/Figure7.png" alt="Image" width="600">
 
   - Flicker_General_11Hz_No_pattern
-[Download-Video](/assets/Research_Stimuli/Exp1_0C-F.mp4)
+[![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/hqdefault.jpg)](https://youtube.com/shorts/dqzhrg9ZzTU)
+
   - Flicker_Exp1_10.6Hz_Contrast_10%
-[Download-Video](/assets/Research_Stimuli/Exp1_10C-F.mp4)
+[![Watch the video](https://img.youtube.com/vi/kBNjA5LnxUc/hqdefault.jpg)](https://youtube.com/shorts/kBNjA5LnxUc)
+
   - Flicker_Exp1_10.6Hz_Contrast_50%
-[Download-Video](/assets/Research_Stimuli/Exp1_50C-F.mp4)
+[![Watch the video](https://img.youtube.com/vi/5rXl25assDU/hqdefault.jpg)](https://youtube.com/shorts/5rXl25assDU)
 
 - Stimuli used in Exp2
     (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
@@ -36,15 +38,17 @@ My dissertation dives into interactions between the spatial and temporal domains
 <img src="/assets/Research_Stimuli/Figure8.png" alt="Image" width="400">
 
   - Flicker_Exp2_10.6Hz_drifting_Band-pass_filtered
-[Download-Video](/assets/Research_Stimuli/Exp2_HS-F.mp4)
+[![Watch the video](https://img.youtube.com/vi/5rXl25assDU/hqdefault.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
+
   - Flicker_Exp2_10.6Hz_drifting_Low-pass_filtered
-[Download-Video](/assets/Research_Stimuli/Exp2_LS-F.mp4)
+[![Watch the video](https://img.youtube.com/vi/5rXl25assDU/hqdefault.jpg)](https://youtube.com/shorts/ImAVXnq2j_M)
 
 - Stimuli used in Exp3
   - Flicker_Exp3_2.5Hz_drifting_Low-pass_filtered
-[Download-Video](/assets/Research_Stimuli/Exp3_2.5hz.mp4)
+[![Watch the video](https://img.youtube.com/vi/yeaQKCwqViY/hqdefault.jpg)](https://youtube.com/shorts/yeaQKCwqViY)
+
   - Flicker_Exp3_21.3Hz_drifting_Low-pass_filtered
-[Download-Video](/assets/Research_Stimuli/Exp3_21.25.mp4)
+[![Watch the video](https://img.youtube.com/vi/RMCdv9kDB0c/hqdefault.jpg)](https://youtube.com/shorts/RMCdv9kDB0c)
 
 #### 2. Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
 In our recent studies, we challenge existing views on how our visual system processes contrast and color. Traditionally, it was believed that two testing methods, the pulsed- and steady-pedestal paradigms, could separately measure the responses of the parvocellular (P) and magnocellular (M) systems in our eyes. These systems help us perceive largely details and movement, respectively. We investigated these methods by examining how well we can detect changes in contrast, especially under different light and color conditions. Surprisingly, our results showed that color doesn’t affect how we see contrast as much as previously thought, and that spatial frequency has minimal impact. Using a mathematical model, we found that both testing methods seem to measure the P-system more than the M-system. 
