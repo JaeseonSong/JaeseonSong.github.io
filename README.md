@@ -47,7 +47,7 @@ Watch Videos: [![Watch the video](https://img.youtube.com/vi/yeaQKCwqViY/default
 #### 2. Examining Increment Thresholds as a Function of Pedestal Contrast under Hypothetical Parvo- and Magnocellular-biased Conditions
 In our recent studies, we challenge existing views on how our visual system processes contrast and color. Traditionally, it was believed that two testing methods, the pulsed- and steady-pedestal paradigms, could separately measure the responses of the parvocellular (P) and magnocellular (M) systems in our eyes. These systems help us perceive largely details and movement, respectively. We investigated these methods by examining how well we can detect changes in contrast, especially under different light and color conditions. Surprisingly, our results showed that color doesn’t affect how we see contrast as much as previously thought, and that spatial frequency has minimal impact. Using a mathematical model, we found that both testing methods seem to measure the P-system more than the M-system. 
 
-- Song, J., Breitmeyer, B. G., & Brown, J. M. (2023) Examining increment thresholds for Gabor patches under hypothetical parvocellular- and magnocellular-biased conditions. Attention, Perception, & Psychophysics. [See Publication](https://link.springer.com/article/10.3758/s13414-023-02819-w)
+- Song, J., Breitmeyer, B. G., & Brown, J. M. (2023) Examining increment thresholds for Gabor patches under hypothetical parvocellular- and magnocellular-biased conditions. Attention, Perception, & Psychophysics. [See Publication](https://rdcu.be/dsmXV)
 
   - Procedure and Stimuli
 
