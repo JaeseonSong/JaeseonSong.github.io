@@ -32,9 +32,13 @@ Watch Videos: [![Watch the video](https://img.youtube.com/vi/dqzhrg9ZzTU/default
 
 - Stimuli used in Exp2  
 
-  - (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 15 cycles per inch (cpi), or 2 cycles per degree (cpd).
+<p align="center">
+  <img src="/assets/Research_Stimuli/Figure8_PSDs.png" alt="Image" width="500">
+</p>
 
-  - (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 50 cpi, or 6.3 cpd, illustrating the targeted spatial frequency ranges for this test.
+  - (a) Adaptation stimulus with Gaussian low-pass filtering (top left) and its corresponding power spectrum (top right), which peaks at frequencies below 2 cycles per degree (cpd).
+
+  - (b) Adaptation stimulus with band-pass filtering (bottom left) and its corresponding power spectrum (bottom right), peaking at around 6 cpd, illustrating the targeted spatial frequency ranges for this test.
 
 Watch Videos: [![Watch the video](https://img.youtube.com/vi/qZUz0eW7ozg/default.jpg)](https://youtube.com/shorts/qZUz0eW7ozg)
 [![Watch the video](https://img.youtube.com/vi/ImAVXnq2j_M/default.jpg)](https://youtube.com/shorts/ImAVXnq2j_M)
