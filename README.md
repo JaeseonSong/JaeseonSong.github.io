@@ -4,8 +4,11 @@
 - **Software**: Python, MATLAB, R, SAS, SPSS
 - **Hardware**: Eye trackers (EyeLink 1000+, Pupil-labs core eye-tracking headset), Spectrophotometer (Photo Research PR-650) 
 
+## Employment
+Postdoctoral Researcher, Psychological & Brain Sciences | The University of Delaware (_August 2024 - Present_)
+
 ## Education
-- Ph.D., Psychology | The University of Georgia (_May 2024, Expected_)				       
+- Ph.D., Psychology | The University of Georgia (_August 2024_)				       
 - M.S., Psychology | Chungbuk National University  (_February 2015_)	 			        	
 - B.S., Psychology | Chungbuk National University  (_February 2013_)
 
